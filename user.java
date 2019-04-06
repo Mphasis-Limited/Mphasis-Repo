@@ -21,4 +21,3 @@ public class Prime {
     }
 }
 
-1 + 2 + 3 + ... + n
