@@ -20,3 +20,5 @@ public class Prime {
             System.out.println(num + " is not a prime number.");
     }
 }
+
+1 + 2 + 3 + ... + n
