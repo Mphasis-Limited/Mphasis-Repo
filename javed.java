@@ -9,3 +9,8 @@ https://beginnersbook.com/2017/09/java-examples/
 To understand a programming language you must practice the programs, this way you can learn the language faster. This page includes java programs on.
 ‎Java Program to Calculate · ‎Java Program to Revers
 kbkbjga jg ae jlae hll hl lkd zh,h zdkl khdz
+class First {
+  public static void main(String[] arguments) {
+    System.out.println("Let's do something using Java technology.");
+  }
+}
